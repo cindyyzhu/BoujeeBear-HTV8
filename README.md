@@ -23,13 +23,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Inspiration</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">How We Built It</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#how-it-works">How it works</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -41,8 +41,8 @@
 </details>
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Inspiration -->
+## Inspiration
 A speech impediment in a child arises when their oral components - the mouth, jaw, tongue, and vocal tract - face challenges in coordinating to articulate clear words.
 <br>
 <br>
@@ -54,7 +54,12 @@ This project functions as a supportive companion for both children and their spe
 
 
 <!-- Built with -->
-### Built With
+### How We Built It
+
+Major frameworks/libraries used to create project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+<!-- Getting Started -->
+### How It Works
 
 Major frameworks/libraries used to create project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
