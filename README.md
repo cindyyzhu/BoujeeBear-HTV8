@@ -12,7 +12,7 @@
   <p align="center">
     Speak clearly, Be heard!
     <br />
-    <a href="https://kidshealth.org/en/parents/not-talk.html"><strong>More Info »</strong></a>
+    <a href="https://kidshealth.org/en/parents/not-talk.html"><strong>Additional Info about Delayed Speech or Language Development »</strong></a>
     <br />
   </p>
 </div>
