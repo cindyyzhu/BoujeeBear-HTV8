@@ -23,7 +23,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#inspiration">Inspiration</a>
+      <a href="#inspirationtt">Inspiration</a>
       <ul>
         <li><a href="#built-with">How We Built It</a></li>
       </ul>
@@ -42,7 +42,7 @@
 
 
 <!-- Inspiration -->
-## 💡Inspiration💡
+## 💡Inspirationtt💡
 A speech impediment in a child arises when their oral components - the mouth, jaw, tongue, and vocal tract - face challenges in coordinating to articulate clear words.
 <br>
 <br>
