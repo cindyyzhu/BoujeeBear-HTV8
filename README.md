@@ -45,6 +45,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 A speech impediment in a child arises when their oral components - the mouth, jaw, tongue, and vocal tract - face challenges in coordinating to articulate clear words.
+Around 5% to 15% of the population is impacted by developmental learning disabilities (LDs, as per the American Psychiatric Association's 2013 data).
+This project functions as a supportive companion for both children and their speech educators, providing an excellent means for kids to practice speech improvement comfortably at home while making learning to rectify speech issues engaging through game-based activities.
 
 
 
