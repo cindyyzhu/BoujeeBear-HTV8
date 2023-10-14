@@ -106,6 +106,11 @@ With these ambitious and visionary steps, we aspire to create a future where spe
 
 ## 🎞️Credits🎞️
 
+Ridhima Ruhela
+Ishi Jassal
+Cindy Zhu
+Ivan Chung
+
 
 
 
