@@ -54,7 +54,7 @@ This project functions as a supportive companion for both children and their spe
 
 
 <!-- Built with -->
-### 🛠️Built With🛠️
+### 🛠️How We Built It🛠️
 
 Major frameworks/libraries used to create project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
