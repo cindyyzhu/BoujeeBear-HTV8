@@ -54,7 +54,7 @@ This project functions as a supportive companion for both children and their spe
 
 
 <!-- Built with -->
-### How Built 
+### How We Built It
 🛠️
 Major frameworks/libraries used to create project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
@@ -86,11 +86,11 @@ With these ambitious and visionary steps, we aspire to create a future where spe
 
 ## 💪Challenges💪
 
-- **🫱🏽‍🫲🏻Diversity Enhancement🫱🏽‍🫲🏻:** Our platform is dedicated to supporting individuals from diverse cultures and ethnic backgrounds, helping them enhance their English-speaking skills, with a particular focus on those with distinctive accents.
+- **🫱🏽‍🫲🏻Best Diversity Hack🫱🏽‍🫲🏻:** Our platform is dedicated to supporting individuals from diverse cultures and ethnic backgrounds, helping them enhance their English-speaking skills, with a particular focus on those with distinctive accents.
 
 <br>
 
-- **🌱Sustainability Commitment🌱:** Our logo embodies the rich tapestry of Canadian wildlife—a tapestry that's sadly fraying at the edges. We've harnessed this symbolism to offer our users a unique opportunity. We're dedicated to enlightening users about the myriad endangered and at-risk species that call Canada home. As users embark on their journey with us and discover these remarkable creatures, they'll be invited visit the donation page for the World Wildlife Fund (WWF), allowing users to actively participate in safeguarding the precious legacy of our wildlife for generations to come.
+- **🌱Best Sustainability Hack🌱:** Our logo embodies the rich tapestry of Canadian wildlife—a tapestry that's sadly fraying at the edges. We've harnessed this symbolism to offer our users a unique opportunity. We're dedicated to enlightening users about the myriad endangered and at-risk species that call Canada home. As users embark on their journey with us and discover these remarkable creatures, they'll be invited visit the donation page for the World Wildlife Fund (WWF), allowing users to actively participate in safeguarding the precious legacy of our wildlife for generations to come.
 
 <br>
 
