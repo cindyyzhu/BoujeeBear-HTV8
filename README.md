@@ -36,7 +36,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Game Process</a></li>
-    <li><a href="#credits">Credits</a></li>
+    <li><a href="#future-plans">What's next for Boujee Bear</a></li>
   </ol>
 </details>
 
@@ -64,6 +64,10 @@ Major frameworks/libraries used to create project. Leave any add-ons/plugins for
 Insert text here
 
 #### Levels
+
+Insert text here
+
+## Future Plans
 
 Insert text here
 
