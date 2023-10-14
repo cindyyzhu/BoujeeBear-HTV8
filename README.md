@@ -73,7 +73,15 @@ Within Boujee Bear, there are three main levels: _Easy, Medium, and Hard_. For t
 
 ## 👀Future Plans👀
 
-Our vision for the future is to implement increased individualized customization catered towards each individual's speech difficulties (i.e. difficulty pronouncing words with "r" sounds). Additionally, we also plan to expand our project to include sentences, conversations, and individuals with accents. These projects could help individuals who are immigrating to English-speaking countries better adapt to local languages and cultures, thereby breaking down language barriers between individuals. Furthermore, we intend to expand our project to emcompass the use of artificial intelligence, enhancing our individualized customization to improve upon the speaking skills of users. 
+At Boujee Bear, we are driven by a compelling vision for the future. Our goal is to provide unparalleled support for individuals with speech difficulties, tailoring our solutions to address each person's unique challenges, such as difficulty pronouncing words with "r" sounds. We aim to make a lasting impact by enhancing our platform in the following ways:
+
+**1. Personalized Customization:** Our commitment to individualized customization will remain unwavering. We're dedicated to fine-tuning our technology to suit the specific needs of every user, making their journey towards better speech effortless and effective.
+
+**2. Project Scope Expansion:** Furthermore, we have strategic plans to extend the scope of our project to encompass sentences, dialogues, and individuals with diverse accents. These initiatives hold the potential to greatly assist individuals who are in the process of immigrating to English-speaking countries by facilitating their adaptation to local languages and cultures, thus diminishing the linguistic barriers between individuals.
+
+**3. Integration of AI:** To propel our mission forward, we will integrate cutting edge artificial intelligence (AI) technologies, playing a pivotal role in enhancing the personalization or our platform, resulting in more significant improvements in the speaking skills of our users. We're excited about the potential this will unlock and are committed to staying at the forefront of technological innovation.
+
+With these ambitious and visionary steps, we aspire to create a future where speech difficulties no longer limit the full potential of individuals. Our journey is marked by progress, innovation, and inclusivity, and we invite you to join us as we pave the way toward a more connected and communicative globalized new era. 
 
 ## 💪Challenges💪
 
