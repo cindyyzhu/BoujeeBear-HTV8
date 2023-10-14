@@ -66,14 +66,14 @@ Insert text here
 
 #### 🎚️Levels🎚️
 
-Within Boujee Bear, there are three main levels: Easy, Medium, and Hard. For the flashcard game, users will be asked to pronounce words based on increasing levels of difficulty. Below is a chart for more detailed descriptions of each individual level.
+Within Boujee Bear, there are three main levels: _Easy, Medium, and Hard_. For the flashcard game, users will be asked to pronounce words based on increasing levels of difficulty. Below is a chart for more detailed descriptions of each individual level.
 - **Easy Level**: Here, there are a variety of words that are slightly or mildly difficult to pronounce for those with speech impediments (i.e. lisps, stutters, etc,.). These include simple words with repeated sounds or "r" sounds.
 - **Medium Level**:  Within the medium level, there are a variety of words that are moderately more difficult to pronounce. These include more complex words with repeated sounds, soft syllables, and rolling "r" sounds.
 - **Hard Level**: In the hard level, there are more challenging words that are meant to challenge the target audience to ameliorate their pronounciation skills and practice their speaking, thereby improving their confidence. Here, there are a variety of words that feature "s" sounds, which is considered as one of the most difficult types of words for individuals to pronounce. 
 
 ## 👀Future Plans👀
 
-Insert text here
+Our vision for the future is to implement increased individualized customization catered towards each individual's speech difficulties (i.e. difficulty pronouncing words with "r" sounds). Additionally, we also plan to expand our project to include sentences, conversations, and individuals with accents. These projects could help individuals who are immigrating to English-speaking countries better adapt to local languages and cultures, thereby breaking down language barriers between individuals. Furthermore, we intend to expand our project to emcompass the use of artificial intelligence, enhancing our individualized customization to improve upon the speaking skills of users. 
 
 ## 💪Challenges💪
 
