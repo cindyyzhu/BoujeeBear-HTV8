@@ -23,7 +23,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Inspiration</a>
+      <a href="#inspiration">Inspiration</a>
       <ul>
         <li><a href="#built-with">How We Built It</a></li>
       </ul>
