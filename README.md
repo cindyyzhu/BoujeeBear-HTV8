@@ -59,11 +59,13 @@ This project functions as a supportive companion for both children and their spe
 Major frameworks/libraries used to create project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 <!-- Getting Started -->
-### ⚙️How It Works⚙️
+### How It Works
+⚙️
 
 Insert text here
 
-#### 🎚️Levels🎚️
+#### Levels
+🎚️
 
 Within Boujee Bear, there are three main levels: _Easy, Medium, and Hard_. For the flashcard game, users will be asked to pronounce words based on increasing levels of difficulty. Below is a chart for more detailed descriptions of each individual level.
 - **Easy Level**: Here, there are a variety of words that are slightly or mildly difficult to pronounce for those with speech impediments (i.e. lisps, stutters, etc,.). These include simple words with repeated sounds or "r" sounds.
@@ -104,12 +106,11 @@ With these ambitious and visionary steps, we aspire to create a future where spe
 
 <br>
 
-## 🎞️Credits🎞️
-
-Ridhima Ruhela
-Ishi Jassal
-Cindy Zhu
-Ivan Chung
+## Credits
+🎞Ridhima Ruhela <br>
+🎞Ishi Jassal <br>
+🎞Cindy Zhu <br>
+🎞Ivan Chung <br>
 
 
 
