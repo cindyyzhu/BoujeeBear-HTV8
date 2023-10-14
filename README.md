@@ -52,6 +52,14 @@ Around 5% to 15% of the population is impacted by developmental learning disabil
 <br>
 This project functions as a supportive companion for both children and their speech educators, providing an excellent means for kids to practice speech improvement comfortably at home while making learning to rectify speech issues engaging through game-based activities.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Built with -->
+### Built With
+
+Major frameworks/libraries used to create project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
