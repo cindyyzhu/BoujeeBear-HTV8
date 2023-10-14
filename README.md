@@ -85,18 +85,27 @@ With these ambitious and visionary steps, we aspire to create a future where spe
 
 ## 💪Challenges💪
 
-- **🫱🏽‍🫲🏻Diversity Aspect🫱🏽‍🫲🏻:**
-Helps individuals from any type of culture or ethnicity improve their English speaking skills (especially those with accents)
+- **🫱🏽‍🫲🏻Diversity Enhancement🫱🏽‍🫲🏻:** Our platform is dedicated to supporting individuals from diverse cultures and ethnic backgrounds, helping them enhance their English-speaking skills, with a particular focus on those with distinctive accents.
 
 <br>
 
-- **🌱Sustainability Aspect🌱:**
-Once these users complete enough levels to improve their speech, they get the ability to “plant a tree”
+- **🌱Sustainability Commitment🌱:** At Boujee Bear, our logo embodies the rich tapestry of Canadian wildlife—a tapestry that's sadly fraying at the edges. We've harnessed this symbolism to offer our users a unique opportunity.
+
+We're dedicated to enlightening users about the myriad endangered and at-risk species that call Canada home. As you embark on your journey with us and discover these remarkable creatures, you'll be invited to join us in supporting their conservation efforts.
+
+We encourage you to explore the fascinating world of Canadian wildlife and, when you're ready, contribute to the preservation of natural biodiversity in Canadian forests and ecosystems. By visiting our donation page for the World Wildlife Fund (WWF), you'll actively participate in safeguarding the precious legacy of our wildlife for generations to come.
 
 <br>
 
-- **🤖Artificial Intelligence Aspect🤖:**
-Uses AI to determine methods for an individual to improve upon their speaking skills
+- **Best Beginner Hack:** As newcomers to the world of hacking and coding, this challenge has provided us with the perfect opportunity to explore and learn. With enthusiasm and dedication, we've tackled the intricacies of coding, Figma prototyping, UX/UI designing, and more. Our growth throughout this challenge has been exponential, and we've leveraged the provided resources, mentors, and the supportive community to acquire essential skills. We're excited to showcase our entry and share our newfound knowledge, proving that with passion and commitment, even beginners can make a significant impact in the world of hacking.
+
+<br>
+
+- **Most Creative Use of Github:** We take pride in our comprehensive ReadMe page, ensuring that our project is approachable and well-documented. Additionally, our history of meaningful pull requests and collaborations demonstrates our commitment to open-source teamwork.
+
+<br>
+
+- **Best Game:** In this unique game, we've combined entertainment with educational value, offering users an engaging and enjoyable way to address speech impediments. Our dedication to user-friendly design and interactive features ensures that players not only have fun but also make significant progress in overcoming their speech challenges. By gamifying the journey to better speech, we hope to demonstrate that learning and self-improvement can be both enjoyable and effective. We're thrilled to present our game and showcase how it's making a positive impact in the lives of those who use it.
 
 <br>
 
