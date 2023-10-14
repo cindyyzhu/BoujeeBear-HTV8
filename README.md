@@ -89,11 +89,7 @@ With these ambitious and visionary steps, we aspire to create a future where spe
 
 <br>
 
-- **🌱Sustainability Commitment🌱:** At Boujee Bear, our logo embodies the rich tapestry of Canadian wildlife—a tapestry that's sadly fraying at the edges. We've harnessed this symbolism to offer our users a unique opportunity.
-
-We're dedicated to enlightening users about the myriad endangered and at-risk species that call Canada home. As you embark on your journey with us and discover these remarkable creatures, you'll be invited to join us in supporting their conservation efforts.
-
-We encourage you to explore the fascinating world of Canadian wildlife and, when you're ready, contribute to the preservation of natural biodiversity in Canadian forests and ecosystems. By visiting our donation page for the World Wildlife Fund (WWF), you'll actively participate in safeguarding the precious legacy of our wildlife for generations to come.
+- **🌱Sustainability Commitment🌱:** Our logo embodies the rich tapestry of Canadian wildlife—a tapestry that's sadly fraying at the edges. We've harnessed this symbolism to offer our users a unique opportunity. We're dedicated to enlightening users about the myriad endangered and at-risk species that call Canada home. As users embark on their journey with us and discover these remarkable creatures, they'll be invited visit the donation page for the World Wildlife Fund (WWF), allowing users to actively participate in safeguarding the precious legacy of our wildlife for generations to come.
 
 <br>
 
