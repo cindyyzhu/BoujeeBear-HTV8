@@ -93,15 +93,15 @@ With these ambitious and visionary steps, we aspire to create a future where spe
 
 <br>
 
-- **Best Beginner Hack:** As newcomers to the world of hacking and coding, this challenge has provided us with the perfect opportunity to explore and learn. With enthusiasm and dedication, we've tackled the intricacies of coding, Figma prototyping, UX/UI designing, and more. Our growth throughout this challenge has been exponential, and we've leveraged the provided resources, mentors, and the supportive community to acquire essential skills. We're excited to showcase our entry and share our newfound knowledge, proving that with passion and commitment, even beginners can make a significant impact in the world of hacking.
+- **👶Best Beginner Hack👶:** As newcomers to the world of hacking and coding, this challenge has provided us with the perfect opportunity to explore and learn. With enthusiasm and dedication, we've tackled the intricacies of coding, Figma prototyping, UX/UI designing, and more. Our growth throughout this challenge has been exponential, and we've leveraged the provided resources, mentors, and the supportive community to acquire essential skills. We're excited to showcase our entry and share our newfound knowledge, proving that with passion and commitment, even beginners can make a significant impact in the world of hacking.
 
 <br>
 
-- **Most Creative Use of Github:** We take pride in our comprehensive ReadMe page, ensuring that our project is approachable and well-documented. Additionally, our history of meaningful pull requests and collaborations demonstrates our commitment to open-source teamwork.
+- **🎨Most Creative Use of Github🎨:** We take pride in our comprehensive ReadMe page, ensuring that our project is approachable and well-documented. Additionally, our history of meaningful pull requests and collaborations demonstrates our commitment to open-source teamwork.
 
 <br>
 
-- **Best Game:** In this unique game, we've combined entertainment with educational value, offering users an engaging and enjoyable way to address speech impediments. Our dedication to user-friendly design and interactive features ensures that players not only have fun but also make significant progress in overcoming their speech challenges. By gamifying the journey to better speech, we hope to demonstrate that learning and self-improvement can be both enjoyable and effective. We're thrilled to present our game and showcase how it's making a positive impact in the lives of those who use it.
+- **🎮Best Game🎮:** In this unique game, we've combined entertainment with educational value, offering users an engaging and enjoyable way to address speech impediments. Our dedication to user-friendly design and interactive features ensures that players not only have fun but also make significant progress in overcoming their speech challenges. By gamifying the journey to better speech, we hope to demonstrate that learning and self-improvement can be both enjoyable and effective. We're thrilled to present our game and showcase how it's making a positive impact in the lives of those who use it.
 
 <br>
 
