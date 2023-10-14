@@ -1,5 +1,7 @@
 import speech_recognition as sr
 import time
+from gtts import gTTS
+import os
 
 # Initialize recognizer
 r = sr.Recognizer()
@@ -38,19 +40,26 @@ if __name__ == "__main__":
     LVL1 = ["run", "rabbit", "yell", "tool", "bowl"]
     LVL2 = ["carrot", "bird", "horse", "earring", "giraffe"]
     LVL3 = ["spoon", "space", "spider", "sports", "sleeve"]
-    NUM_GUESSES = 2
+    NUM_Tries = 2
     PROMPT_LIMIT = 8
+    language= 'en'
+
+    welc = "Welcome to Bougie Bear Cards!"
+    myobjw = gTTS(text=welc, lang=language, slow=False)
+    myobjw.save("W.mp3")
+    os.system("afplay W.mp3")
+    
 
     # get a random word from the list
     for word in LVL1:
         # format the instructions string
-        instructions = f"Lets try this word: {word}\n"
+        instructions = f"Repeat after me! {word}"
+        myobj = gTTS(text=instructions, lang=language, slow=False)
+        myobj.save("S.mp3")
+        os.system("afplay S.mp3")
+        time.sleep(0.5)
 
-        # show instructions and wait 3 seconds before starting the game
-        print(instructions)
-        time.sleep(3)
-
-        for _ in range(NUM_GUESSES):
+        for _ in range(NUM_Tries):
             # get the guess from the user
             for _ in range(PROMPT_LIMIT):
                 print('Speak!')
@@ -71,7 +80,7 @@ if __name__ == "__main__":
 
             # determine if guess is correct and if any attempts remain
             guess_is_correct = guess["transcription"].lower() == word.lower()
-            user_has_more_attempts = NUM_GUESSES - 1 > 0
+            user_has_more_attempts = NUM_Tries - 1 > 0
 
             # determine if the user has won the game
             if guess_is_correct:
@@ -94,14 +103,13 @@ if __name__ == "__main__":
     
 
     for word in LVL2:
-        # format the instructions string
-        instructions = f"Lets try this word: {word}\n"
+        instructions = f"Repeat after me! {word}"
+        myobj = gTTS(text=instructions, lang=language, slow=False)
+        myobj.save("S.mp3")
+        os.system("afplay S.mp3")
+        time.sleep(0.5)
 
-        # show instructions and wait 3 seconds before starting the game
-        print(instructions)
-        time.sleep(3)
-
-        for _ in range(NUM_GUESSES):
+        for _ in range(NUM_Tries):
             # get the guess from the user
             for _ in range(PROMPT_LIMIT):
                 print('Speak!')
@@ -122,7 +130,7 @@ if __name__ == "__main__":
 
             # determine if guess is correct and if any attempts remain
             guess_is_correct = guess["transcription"].lower() == word.lower()
-            user_has_more_attempts = NUM_GUESSES - 1 > 0
+            user_has_more_attempts = NUM_Tries - 1 > 0
 
             # determine if the user has won the game
             if guess_is_correct:
@@ -143,14 +151,13 @@ if __name__ == "__main__":
                 exit()
             
     for word in LVL3:
-        # format the instructions string
-        instructions = f"Lets try this word: {word}\n"
+        instructions = f"Repeat after me! {word}"
+        myobj = gTTS(text=instructions, lang=language, slow=False)
+        myobj.save("S.mp3")
+        os.system("afplay S.mp3")
+        time.sleep(0.5)
 
-        # show instructions and wait 3 seconds before starting the game
-        print(instructions)
-        time.sleep(3)
-
-        for _ in range(NUM_GUESSES):
+        for _ in range(NUM_Tries):
             # get the guess from the user
             for _ in range(PROMPT_LIMIT):
                 print('Speak!')
@@ -171,7 +178,7 @@ if __name__ == "__main__":
 
             # determine if guess is correct and if any attempts remain
             guess_is_correct = guess["transcription"].lower() == word.lower()
-            user_has_more_attempts = NUM_GUESSES - 1 > 0
+            user_has_more_attempts = NUM_Tries - 1 > 0
 
             # determine if the user has won the game
             if guess_is_correct:
