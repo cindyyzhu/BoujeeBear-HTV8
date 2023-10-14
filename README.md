@@ -67,9 +67,9 @@ Insert text here
 #### Levels
 
 
-Within Boujee Bear, there are three main levels: _Easy, Medium, and Hard_. For the flashcard game, users will be asked to pronounce words based on increasing levels of difficulty. Below is a chart for more detailed descriptions of each individual level.<br>
-🎚️ **Easy Level**: Here, there are a variety of words that are slightly or mildly difficult to pronounce for those with speech impediments (i.e. lisps, stutters, etc,.). These include simple words with repeated sounds or "r" sounds.<br>
-🎚️ **Medium Level**:  Within the medium level, there are a variety of words that are moderately more difficult to pronounce. These include more complex words with repeated sounds, soft syllables, and rolling "r" sounds.<br>
+Within Boujee Bear, there are three main levels: _Easy, Medium, and Hard_. For the flashcard game, users will be asked to pronounce words based on increasing levels of difficulty. Below is a chart for more detailed descriptions of each individual level.<br><br>
+🎚️ **Easy Level**: Here, there are a variety of words that are slightly or mildly difficult to pronounce for those with speech impediments (i.e. lisps, stutters, etc,.). These include simple words with repeated sounds or "r" sounds.<br><br>
+🎚️ **Medium Level**:  Within the medium level, there are a variety of words that are moderately more difficult to pronounce. These include more complex words with repeated sounds, soft syllables, and rolling "r" sounds.<br><br>
 🎚️ **Hard Level**: In the hard level, there are more challenging words that are meant to challenge the target audience to ameliorate their pronounciation skills and practice their speaking, thereby improving their confidence. Here, there are a variety of words that feature "s" sounds, which is considered as one of the most difficult types of words for individuals to pronounce. 
 
 ## 👀Future Plans👀
