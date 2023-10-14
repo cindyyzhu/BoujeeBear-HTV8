@@ -10,7 +10,7 @@
   <h3 align="center">Boujee Bear</h3>
 
   <p align="center">
-    Speak clearly, Be heard!
+    Speak Clearly, Be Heard!
     <br />
     <a href="https://kidshealth.org/en/parents/not-talk.html"><strong>Additional Info about Delayed Speech or Language Development »</strong></a>
     <br />
