@@ -31,7 +31,7 @@
     <li>
       <a href="#how-it-works">How it works</a>
       <ul>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#levels">Levels</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -61,7 +61,11 @@ Major frameworks/libraries used to create project. Leave any add-ons/plugins for
 <!-- Getting Started -->
 ### How It Works
 
-Major frameworks/libraries used to create project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Insert text here
+
+## Levels
+
+Insert text here
 
 
 
