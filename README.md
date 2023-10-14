@@ -76,6 +76,7 @@ Insert text here
 
 Diversity Aspect:
 Helps individuals from any type of culture or ethnicity improve their English speaking skills (especially those with accents)
+
 <br>
 
 Sustainability Aspect:
