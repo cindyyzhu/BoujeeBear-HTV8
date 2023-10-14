@@ -23,9 +23,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#inspirationtt">Inspiration</a>
+      <a href="#inspiration">Inspiration</a>
       <ul>
-        <li><a href="#built-with">How We Built It</a></li>
+        <li><a href="#how built">How We Built It</a></li>
       </ul>
     </li>
     <li>
@@ -42,7 +42,7 @@
 
 
 <!-- Inspiration -->
-## 💡Inspirationtt💡
+## 💡Inspiration💡
 A speech impediment in a child arises when their oral components - the mouth, jaw, tongue, and vocal tract - face challenges in coordinating to articulate clear words.
 <br>
 <br>
@@ -54,7 +54,7 @@ This project functions as a supportive companion for both children and their spe
 
 
 <!-- Built with -->
-### 🛠️How We Built It🛠️
+### 🛠️How Built🛠️
 
 Major frameworks/libraries used to create project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
