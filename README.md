@@ -66,10 +66,10 @@ Insert text here
 
 #### Levels
 
-Level 1
-Level 2 
-Level 3
-
+Within Boujee Bear, there are three main levels: Easy, Medium, and Hard. For the flashcard game, users will be asked to pronounce words based on increasing levels of difficulty. Below is a chart for more detailed descriptions of each individual level.
+- **Easy Level**: Here, there are a variety of words that are slightly or mildly difficult to pronounce for those with speech impediments (i.e. lisps, stutters, etc,.). These include simple words with repeated sounds or "r" sounds.
+- **Medium Level**:  Within the medium level, there are a variety of words that are moderately more difficult to pronounce. These include more complex words with repeated sounds, soft syllables, and rolling "r" sounds.
+- **Hard Level**: In the hard level, there are more challenging words that are meant to challenge the target audience to ameliorate their pronounciation skills and practice their speaking, thereby improving their confidence. Here, there are a variety of words that feature "s" sounds, which is considered as one of the most difficult types of words for individuals to pronounce. 
 
 ## Future Plans
 
@@ -77,16 +77,16 @@ Insert text here
 
 ## Challenges
 
-Diversity Aspect:
+- Diversity Aspect:
 Helps individuals from any type of culture or ethnicity improve their English speaking skills (especially those with accents)
 
 <br>
 
-Sustainability Aspect:
+- Sustainability Aspect:
 Once these users complete enough levels to improve their speech, they get the ability to “plant a tree”
 
 <br>
-Artificial Intelligence Aspect:
+- Artificial Intelligence Aspect:
 Uses AI to determine methods for an individual to improve upon their speaking skills
 <br>
 
