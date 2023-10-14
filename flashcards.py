@@ -89,7 +89,8 @@ if __name__ == "__main__":
             elif user_has_more_attempts:
                 print("Close! Let's try again.")
             else:
-                print("Incorrect. The correct word was {}. Let's try the next one!".format(word))
+                print("Not quite right, let's try again!".format(word))
+                break
 
         # If the last word was correctly guessed, print the completion message
         if guess_is_correct and word == LVL1[-1]:
@@ -97,7 +98,7 @@ if __name__ == "__main__":
             cont=input("Do you want to try level medium? Type Y for yes N for no: ")
             if cont== 'Y' or 'y':
                 break
-            else:
+            elif cont== 'N' or 'n':
                 exit()
 
     
@@ -139,15 +140,15 @@ if __name__ == "__main__":
             elif user_has_more_attempts:
                 print("Close! Let's try again.")
             else:
-                print("Incorrect. The correct word was {}. Let's try the next one!".format(word))
-
+                print("Not quite right, let's try again!".format(word))
+                break
         # If the last word was correctly guessed, print the completion message
         if guess_is_correct and word == LVL1[-1]:
             print("Congratulations! You've completed level 2. You are making great progress good job!!")
             cont=input("Do you want to try level medium? Type Y for yes N for no: ")
             if cont== 'Y' or 'y':
                 break
-            else:
+            elif cont== 'N' or 'n':
                 exit()
             
     for word in LVL3:
@@ -186,9 +187,10 @@ if __name__ == "__main__":
                 break
             elif user_has_more_attempts:
                 print("Close! Let's try again.")
+            
             else:
-                print("Incorrect. The correct word was {}. Let's try the next one!".format(word))
-
+                print("Not quite right, let's try again!".format(word))
+                break
         # If the last word was correctly guessed, print the completion message
         if guess_is_correct and word == LVL1[-1]:
             print("Congratulations! You've completed level 3. Great Job.!!")
