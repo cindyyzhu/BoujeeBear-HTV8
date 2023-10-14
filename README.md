@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="boujee2.png" alt="Logo" width="250" height="250">
+    <img src="boujee2.png" alt="Logo" width="350" height="350">
   </a>
 
   <h3 align="center">Boujee Bear</h3>
