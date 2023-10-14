@@ -64,7 +64,7 @@ Major frameworks/libraries used to create project. Leave any add-ons/plugins for
 
 Insert text here
 
-#### Levels
+### Levels
 
 
 Within Boujee Bear, there are three main levels: _Easy, Medium, and Hard_. For the flashcard game, users will be asked to pronounce words based on increasing levels of difficulty. Below is a chart for more detailed descriptions of each individual level.<br><br>
