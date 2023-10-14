@@ -36,7 +36,7 @@ def record_text():
         return response
 
 if __name__ == "__main__":
-    # set the list of words, maxnumber of guesses, and prompt limit
+    # set the list of words, maxnumber of tries, and prompt limit
     LVL1 = ["run", "rabbit", "yell", "tool", "bowl"]
     LVL2 = ["carrot", "bird", "horse", "earring", "giraffe"]
     LVL3 = ["spoon", "space", "spider", "sports", "sleeve"]
@@ -59,27 +59,27 @@ if __name__ == "__main__":
         os.system("afplay S.mp3")
         time.sleep(0.5)
 
-        for _ in range(NUM_Tries):
-            # get the guess from the user
-            for _ in range(PROMPT_LIMIT):
+        for i in range(NUM_Tries):
+            # get the input from the user
+            for j in range(PROMPT_LIMIT):
                 print('Speak!')
-                guess = record_text()
-                if guess["transcription"]:
+                inp = record_text()
+                if inp["transcription"]:
                     break
-                if not guess["success"]:
+                if not inp["success"]:
                     break
                 print("I didn't catch that. What did you say?\n")
 
             # if there was an error, stop the game
-            if guess["error"]:
-                print("ERROR: {}".format(guess["error"]))
+            if inp["error"]:
+                print("ERROR: {}".format(inp["error"]))
                 break
 
             # show the user the transcription
-            print("You said: {}".format(guess["transcription"]))
+            print("You said: {}".format(inp["transcription"]))
 
-            # determine if guess is correct and if any attempts remain
-            guess_is_correct = guess["transcription"].lower() == word.lower()
+            # determine if input is correct and if any attempts remain
+            guess_is_correct = inp["transcription"].lower() == word.lower()
             user_has_more_attempts = NUM_Tries - 1 > 0
 
             # determine if the user has won the game
@@ -92,7 +92,7 @@ if __name__ == "__main__":
                 print("Not quite right, let's try again!".format(word))
                 break
 
-        # If the last word was correctly guessed, print the completion message
+        # If the last word was correctly said, print the completion message
         if guess_is_correct and word == LVL1[-1]:
             print("Congratulations! You've completed level 1. Good job!")
             cont=input("Do you want to try level medium? Type Y for yes N for no: ")
@@ -111,30 +111,30 @@ if __name__ == "__main__":
         time.sleep(0.5)
 
         for _ in range(NUM_Tries):
-            # get the guess from the user
+            # get the input from the user
             for _ in range(PROMPT_LIMIT):
                 print('Speak!')
-                guess = record_text()
-                if guess["transcription"]:
+                inp = record_text()
+                if inp["transcription"]:
                     break
-                if not guess["success"]:
+                if not inp["success"]:
                     break
                 print("I didn't catch that. What did you say?\n")
 
             # if there was an error, stop the game
-            if guess["error"]:
-                print("ERROR: {}".format(guess["error"]))
+            if inp["error"]:
+                print("ERROR: {}".format(inp["error"]))
                 break
 
             # show the user the transcription
-            print("You said: {}".format(guess["transcription"]))
+            print("You said: {}".format(inp["transcription"]))
 
-            # determine if guess is correct and if any attempts remain
-            guess_is_correct = guess["transcription"].lower() == word.lower()
+            # determine if input is correct and if any attempts remain
+            input_is_correct = inp["transcription"].lower() == word.lower()
             user_has_more_attempts = NUM_Tries - 1 > 0
 
             # determine if the user has won the game
-            if guess_is_correct:
+            if input_is_correct:
                 print("Correct! Let's move on to the next one!")
                 break
             elif user_has_more_attempts:
@@ -142,8 +142,8 @@ if __name__ == "__main__":
             else:
                 print("Not quite right, let's try again!".format(word))
                 break
-        # If the last word was correctly guessed, print the completion message
-        if guess_is_correct and word == LVL1[-1]:
+        # If the last word was correctly said, print the completion message
+        if input_is_correct and word == LVL1[-1]:
             print("Congratulations! You've completed level 2. You are making great progress good job!!")
             cont=input("Do you want to try level medium? Type Y for yes N for no: ")
             if cont== 'Y' or 'y':
@@ -159,30 +159,30 @@ if __name__ == "__main__":
         time.sleep(0.5)
 
         for _ in range(NUM_Tries):
-            # get the guess from the user
+            # get the input from the user
             for _ in range(PROMPT_LIMIT):
                 print('Speak!')
-                guess = record_text()
-                if guess["transcription"]:
+                inp = record_text()
+                if inp["transcription"]:
                     break
-                if not guess["success"]:
+                if not inp["success"]:
                     break
                 print("I didn't catch that. What did you say?\n")
 
             # if there was an error, stop the game
-            if guess["error"]:
-                print("ERROR: {}".format(guess["error"]))
+            if inp["error"]:
+                print("ERROR: {}".format(inp["error"]))
                 break
 
             # show the user the transcription
-            print("You said: {}".format(guess["transcription"]))
+            print("You said: {}".format(inp["transcription"]))
 
-            # determine if guess is correct and if any attempts remain
-            guess_is_correct = guess["transcription"].lower() == word.lower()
+            # determine if input is correct and if any attempts remain
+            input_is_correct = inp["transcription"].lower() == word.lower()
             user_has_more_attempts = NUM_Tries - 1 > 0
 
             # determine if the user has won the game
-            if guess_is_correct:
+            if input_is_correct:
                 print("Correct! Let's move on to the next one!")
                 break
             elif user_has_more_attempts:
@@ -191,8 +191,8 @@ if __name__ == "__main__":
             else:
                 print("Not quite right, let's try again!".format(word))
                 break
-        # If the last word was correctly guessed, print the completion message
-        if guess_is_correct and word == LVL1[-1]:
+        # If the last word was correctly said, print the completion message
+        if input_is_correct and word == LVL1[-1]:
             print("Congratulations! You've completed level 3. Great Job.!!")
             cont=input("Do you want to try level medium? Type Y for yes N for no: ")
             if cont== 'Y' or 'y':
