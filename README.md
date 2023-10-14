@@ -44,4 +44,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+A speech impediment in a child arises when their oral components - the mouth, jaw, tongue, and vocal tract - face challenges in coordinating to articulate clear words.
+
+
+
 
