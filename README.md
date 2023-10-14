@@ -86,10 +86,11 @@ Helps individuals from any type of culture or ethnicity improve their English sp
 Once these users complete enough levels to improve their speech, they get the ability to “plant a tree”
 
 <br>
+
 - **🤖Artificial Intelligence Aspect🤖:**
 Uses AI to determine methods for an individual to improve upon their speaking skills
-<br>
 
+<br>
 
 ## 🎞️Credits🎞️
 
