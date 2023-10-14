@@ -66,7 +66,10 @@ Insert text here
 
 #### Levels
 
-Insert text here
+Level 1
+Level 2 
+Level 3
+
 
 ## Future Plans
 
