@@ -34,9 +34,10 @@
         <li><a href="#levels">Levels</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Game Process</a></li>
     <li><a href="#future-plans">What's next for Boujee Bear</a></li>
+    <li><a href="#challenges">Challenges</a></li>
+    <li><a href="#credits">Credits</a></li>
   </ol>
 </details>
 
@@ -70,6 +71,11 @@ Insert text here
 ## Future Plans
 
 Insert text here
+
+## Challenges
+
+
+## Credits
 
 
 
