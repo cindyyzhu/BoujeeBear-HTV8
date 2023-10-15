@@ -90,10 +90,6 @@ With these ambitious and visionary steps, we aspire to create a future where spe
 
 <br>
 
-- **🌱Best Sustainability Hack🌱:** Our logo embodies the rich tapestry of Canadian wildlife—a tapestry that's sadly fraying at the edges. We've harnessed this symbolism to offer our users a unique opportunity. We're dedicated to enlightening users about the myriad endangered and at-risk species that call Canada home. As users embark on their journey with us and discover these remarkable creatures, they'll be invited visit the donation page for the World Wildlife Fund (WWF), allowing users to actively participate in safeguarding the precious legacy of our wildlife for generations to come.
-
-<br>
-
 - **👶Best Beginner Hack👶:** As newcomers to the world of hacking and coding, this challenge has provided us with the perfect opportunity to explore and learn. With enthusiasm and dedication, we've tackled the intricacies of coding, Figma prototyping, UX/UI designing, and more. Our growth throughout this challenge has been exponential, and we've leveraged the provided resources, mentors, and the supportive community to acquire essential skills. We're excited to showcase our entry and share our newfound knowledge, proving that with passion and commitment, even beginners can make a significant impact in the world of hacking.
 
 <br>
