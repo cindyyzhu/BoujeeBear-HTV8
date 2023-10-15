@@ -35,7 +35,9 @@ def record_text():
 
         return response
 
-if __name__ == "__main__":
+
+    
+def words():
     # set the list of words, maxnumber of tries, and prompt limit
     LVL1 = ["run", "rabbit", "yell", "tool", "bowl"]
     LVL2 = ["carrot", "bird", "horse", "earring", "giraffe"]
@@ -200,5 +202,6 @@ if __name__ == "__main__":
             else:
                 exit()
             
-    
+if __name__ == "__main__":
+    words()    
 
